@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="center">Aprendendo ingles</p>
-  <a href="https://inottec.com.br/felipe/"> <img src="https://user-images.githubusercontent.com/63815922/216802156-0b9a7a31-b546-4864-aa2c-66e35c0259cd.png?text=Alcool-ou-Gasolina#vitrinedev" alt="Álcool ou Gasolina"></a>
+  <a href="https://inottec.com.br/felipe/"> <img src="https://user-images.githubusercontent.com/63815922/216803786-9184741e-ff38-4fbe-9f14-1c087cc0c809.png?text=Alcool-ou-Gasolina#vitrinedev" alt="Aprendendo ingles"></a>
 </h1>
 
 <p align="center">
@@ -34,7 +34,7 @@ Indicado para crianças de 2 a 6 anos, esse aplicativo pode ser útil também ao
 
 ## Funcionalidades
 
-:heavy_check_mark: `Funcionalidade 1:` Calculo custo da gasolina e álcool.
+:heavy_check_mark: `Funcionalidade 1:` Reprodução de áudio em inglês.
 
 
 
@@ -61,7 +61,7 @@ Você pode [acessar o código fonte do projeto](https://github.com/Felipe-S-O/Ap
 
 ## Abrir e rodar o projeto
 
-Após instalar o aplicativo, você pode abrir e coloca o custo da gasolina e o do alco para identifica qual o melhor combustível utilizar
+Após instalar o aplicativo, você pode clica nas imagens para reproduzir o áudio referente a imagem pressionada 
 
 ## Desenvolvedores
 
